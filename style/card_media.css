@@ -34,6 +34,10 @@
     .corzina{
         width: 90%;
     }
+    .oglav p{
+    margin: 0px 5px;
+    font-size: 16px;
+}
 }
 @media (max-width: 802px){
     .form {
