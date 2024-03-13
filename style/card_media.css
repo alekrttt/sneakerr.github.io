@@ -62,7 +62,7 @@
         display: none;
     }
     .razmer{
-        margin: 0 auto;
+        margin: 0 10px;
     }
     .oqenka{
         display: none;
@@ -71,7 +71,7 @@
         flex-direction: column;
     }
     .opisanie_text{
-        max-width: 90%;
+        max-width: 80%;
     }
     .materials{
         width: 90%;
