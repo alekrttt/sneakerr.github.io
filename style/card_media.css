@@ -55,6 +55,9 @@
     .form button{
         margin: 10px auto;
     }
+    .photos{
+        display: none;
+    }
     .photos1{
         display: none;
     }
