@@ -85,4 +85,7 @@
     .oglav p{
         display: none;
     }
+    .conteiner_header {
+        gap: 20px;
+    }
 }
