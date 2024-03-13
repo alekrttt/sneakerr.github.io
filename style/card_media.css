@@ -88,4 +88,10 @@
     .conteiner_header {
         gap: 20px;
     }
+    .photo{
+        margin-left: 0px;
+    }
+    .photo img{
+        margin: 20px 5px;
+    }
 }
