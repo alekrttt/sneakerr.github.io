@@ -55,4 +55,22 @@
     .form button{
         margin: 10px auto;
     }
+    .photos1{
+        display: none;
+    }
+    .razmer{
+        margin: 0 auto;
+    }
+    .oqenka{
+        display: none;
+    }
+    .opusanie{
+        flex-direction: column;
+    }
+    .opisanie_text{
+        max-width: 90%;
+    }
+    .materials{
+        width: 90%;
+    }
 }
