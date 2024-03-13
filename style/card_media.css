@@ -78,6 +78,7 @@
     }
     .photo{
         width: 90%;
+        margin-left: 0px;
     }
     .corzina{
         width: 90%;
@@ -87,9 +88,6 @@
     }
     .conteiner_header {
         gap: 20px;
-    }
-    .photo{
-        margin-left: 0px;
     }
     .photo img{
         margin: 20px 5px;
