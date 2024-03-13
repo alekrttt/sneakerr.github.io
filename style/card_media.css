@@ -1,0 +1,50 @@
+@media (max-width: 1162px){
+    .conteiner_footer iframe{
+        width: 70%;
+    }
+    .conteiner_footer{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+@media (max-width: 1062px){
+    .button1{
+        margin: 70px auto 30px auto;
+        font-size: 20px;
+    }
+    .button2{
+        font-size: 20px;
+    }
+    .photos1{
+        padding: 40px 50px;
+    }
+    .oqenka{
+        left: 35%;
+    }
+}
+
+@media (max-width: 912px){
+    .del{
+        flex-direction: column;
+    }
+    .photo{
+        width: 90%;
+    }
+    .corzina{
+        width: 90%;
+    }
+}
+@media (max-width: 802px){
+    .form {
+        flex-direction: column;
+        padding: 20px 10px;
+    }
+    .text_form {
+        width: 90%;
+        text-align: center;
+    }
+    .form button{
+        margin: 10px auto;
+    }
+}
