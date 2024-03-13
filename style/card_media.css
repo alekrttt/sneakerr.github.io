@@ -82,4 +82,7 @@
     .corzina{
         width: 90%;
     }
+    .oglav p{
+        display: none;
+    }
 }
