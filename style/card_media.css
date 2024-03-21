@@ -90,6 +90,10 @@
         gap: 20px;
     }
     .photo img{
-        margin: 20px auto;
+        margin: 20px 30px;
+    }
+    .logo {
+        width: 150px;
+        margin-left: 30px;
     }
 }
